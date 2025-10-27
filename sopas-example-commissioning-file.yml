@@ -1,16 +1,7 @@
-# -----------------------------------------------------------------------------
-# Device Commissioning File
-# Cybus Learn: How to connect and use a SICK RFID scanner via SOPAS
-# Url: https://learn.cybus.io/lessons/how-to-connect-and-use-a-sick-rfid-scanner/
-# Author: David Schmeding
-# Date: Jul 2020
-# -----------------------------------------------------------------------------
-
+---
 description: >
 
-  SICK SOPAS Example Commissioning File for RFU620
-  Cybus Learn - How to connect and use a SICK RFID scanner via SOPAS
-  https://learn.cybus.io/lessons/how-to-connect-and-use-a-sick-rfid-scanner/
+  Connecting & Integrating a SICK RFID Sensor via SOPAS
   
 metadata:
 

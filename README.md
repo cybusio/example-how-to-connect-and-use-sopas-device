@@ -1,5 +1,3 @@
-# Cybus Learn Lesson Example 
+# Connecting & Integrating a SICK RFID Sensor via SOPAS
 
-This repository contains the example Connectware Commissioning Files for the
-Cybus Learn Article
-[How to connect and use a SICK RFID scanner via SOPAS](https://learn.cybus.io/lessons/how-to-connect-and-use-a-sick-rfid-scanner/).
+This repository provides a service commissioning file that serves as an example for the Connectware documentation. For more information, see [Connecting & Integrating a SICK RFID Sensor via SOPAS](https://docs.cybus.io/guides/machine-connectivity/connecting-and-integrating-a-sick-rfid-sensor-via-sopas).
